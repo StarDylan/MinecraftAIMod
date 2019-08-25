@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aimod",
+  "name": "Minecraft AI Mod",
+  "description": "Uses AI to explore the minecraft world",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dylan Starink"],
+  "credits": "Made by Dylan Starink",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
